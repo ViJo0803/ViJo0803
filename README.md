@@ -11,6 +11,7 @@
 Hola soy Victor Carreño, Licenciado en Ing. de Sistemas, y estudiante del Bootcamp Henry 🏫Me encanta la tecnologia y la programación.
 
 ## 💻 Proyectos
+* [Wallet Mint]
 * [Landing Page Dogs]
 * [E Comerce PHP - MYSQL]
 * [Sistema de Seguridad en Arduino]
@@ -19,7 +20,8 @@ Hola soy Victor Carreño, Licenciado en Ing. de Sistemas, y estudiante del Bootc
 
 ## ⚡ Tecnologias
 - Front-end development **HTML, Javascript,CSS,React**
-- Backend development using **SQL,PHP, Node**
+- Mobile **React Native**
+- Backend development using **SQL,PHP, Node, Postgresql, Go**
 - Arduino **Arduino**
 - Estructura de datos y algoritmos **Java**
 
