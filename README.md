@@ -6,7 +6,7 @@
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-carreno-fullstack/)](https://www.linkedin.com/in/victor-carreno-fullstack/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijo967@gmail.com)](mailto:suyash.srivastava14@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijo967@gmail.com)](mailto:vijo967@gmail.com)
 
 Hola soy Victor Carreño, Licenciado en Ing. de Sistemas, y estudiante del Bootcamp Henry 🏫Me encanta la tecnologia y la programación.
 
